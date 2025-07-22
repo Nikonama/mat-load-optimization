@@ -1,0 +1,50 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+
+# MATLAB compilation files
+*.p
+*.mex*
+*.slx.autosave
+
+# MATLAB data files (optionnel, selon vos besoins)
+*.mat
+
+# MATLAB figures
+*.fig
+
+# MATLAB app designer files
+*.mlapp.bak
+
+# MATLAB code generation
+codegen/
+*.prj
+
+# MATLAB coder
+*.dll
+*.exe
+*.so
+
+# MATLAB compiler
+*.ctf
+
+# Simulink files
+*.slx.original
+*.mdl.original
+slprj/
+
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+*.sublime-*
+
+# Temporary folders
+temp/
+tmp/
